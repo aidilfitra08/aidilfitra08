@@ -56,8 +56,6 @@
 
 ###
 
-<h2 align="center">Let's connect!!</h2>
-
 ###
 
 <div align="center">
