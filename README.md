@@ -1,16 +1,10 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=devStatus:%20Tired&fontSize=40&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="center">Take all the possibilities</h1>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:aidilfitra08?theme=sketch-1&padding=7&offset=0&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<h3 align="center">"Take all the possibilities"</h3>
 
 ###
 
@@ -56,12 +50,18 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlkY3BkMW1jcmhkbTZyOG9kZHRsN2lyZmZscjQwYmY0Y25tODJraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5Ms3vsrCoqCWpqtrN/giphy.gif"  />
+</div>
+
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aidil-fitra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aidilfitra08/aidilfitra08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aidilfitra08/aidilfitra08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aidilfitra08/aidilfitra08/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
